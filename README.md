@@ -9,6 +9,13 @@ It allows you to retrieve OUI vendor information, detect virtual machines, manuf
  - location
  - read the information encoded in the MAC address
  
+ ### Fetch API-KEY
+ ```
+Step 1 - Go to https://macaddress.io/api
+Step 2 - Signup there
+Step 3 - Key is In 'documentation' section
+Step 4 - Copy and Paste it on <API> in Config file
+```
  ### variables
  
  ##### Open Config.py using a text editor:
